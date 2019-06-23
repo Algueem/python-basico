@@ -8,3 +8,5 @@ Os vídeos abaixo vão mostrar um pouco da força do python.<br>
 
 # 📚 Índice
 1- [Strings](https://github.com/new-devs/python-basico/blob/master/string.ipynb)<br>
+2- [Operadores](https://github.com/new-devs/python-basico/blob/master/operadores.ipynb)<br>
+3- [Laços](https://github.com/new-devs/python-basico/blob/master/lacos.ipynb)<br>
