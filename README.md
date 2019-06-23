@@ -7,3 +7,4 @@ Os vídeos abaixo vão mostrar um pouco da força do python.<br>
 [Filipe Deschamps](https://www.youtube.com/watch?v=BrV6QNFuVZg)
 
 # 📚 Índice
+1- [Strings](https://github.com/new-devs/python-basico/blob/master/string.ipynb)<br>
