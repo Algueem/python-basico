@@ -14,3 +14,5 @@ Os vídeos abaixo vão mostrar um pouco da força do python.<br>
 5- [Listas](https://github.com/new-devs/python-basico/blob/master/listas.ipynb)<br>
 6- [Dicionários](https://github.com/new-devs/python-basico/blob/master/dicionarios.ipynb)
 7- [Classes](https://github.com/new-devs/python-basico/blob/master/classes.ipynb)<br>
+8- [Csv](https://github.com/new-devs/python-basico/blob/master/csv.ipynb)<br>
+9- [Sqlite](https://github.com/new-devs/python-basico/blob/master/sqlite.ipynb)<br>
